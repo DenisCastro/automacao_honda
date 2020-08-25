@@ -1,0 +1,14 @@
+{
+  "projeto": "art_it",
+  "mongo": {
+    "clusters": [
+      "cluster0-shard-00-01-srw2a.mongodb.net:27017",
+      "cluster0-shard-00-00-srw2a.mongodb.net:27017",
+      "cluster0-shard-00-02-srw2a.mongodb.net:27017"
+    ],
+    "user": "admin",
+    "password": "admin",
+    "main_database": "relatorios",
+    "main_collection": "regressivos"
+  }
+}
