@@ -171,5 +171,11 @@
             <artifactId>phantomjsdriver</artifactId>
             <version>1.4.4</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.rundeck/rundeck-core -->
+        <dependency>
+            <groupId>org.rundeck</groupId>
+            <artifactId>rundeck-core</artifactId>
+            <version>3.3.2-20200817</version>
+        </dependency>
     </dependencies>
 </project>
