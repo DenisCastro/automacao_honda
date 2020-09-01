@@ -177,5 +177,11 @@
             <artifactId>rundeck-core</artifactId>
             <version>3.3.2-20200817</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.kohsuke/github-api -->
+        <dependency>
+            <groupId>org.kohsuke</groupId>
+            <artifactId>github-api</artifactId>
+            <version>1.116</version>
+        </dependency>
     </dependencies>
 </project>
